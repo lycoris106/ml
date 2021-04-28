@@ -26,6 +26,7 @@ faces/
 ```
 """
 
+!unzip -q "{workspace_dir}/crypko_data.zip" -d "{workspace_dir}/"
 
 """## Random seed
 Set the random seed to a certain value for reproducibility.
